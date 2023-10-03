@@ -17,5 +17,8 @@
   },
   "overrides": {
     "vite-plugin-inspect": "0.7.38"
+  },
+  "dependencies": {
+    "sass": "^1.68.0"
   }
 }
