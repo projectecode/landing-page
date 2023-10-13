@@ -23,11 +23,11 @@ export default {
   data () {
     return {
       navItems: [
-        {name: 'Menu', route: '/menu', target: '_self'},
-        {name: 'About', route: '/about', target: '_self'},
-        {name: 'Restaurants', route: '/restaurants', target: 'self'},
-        {name: 'Offers', route: '/offers', target: '_self'},  
-        {name: 'Order', route: 'http://doordash.com/store/23u82328', target: '_blank'}
+        {id: 1, name: 'Menu', route: '/menu', target: '_self'},
+        {id: 2, name: 'About', route: '/about', target: '_self'},
+        {id: 3, name: 'Restaurants', route: '/restaurants', target: 'self'},
+        {id: 4, name: 'Offers', route: '/offers', target: '_self'},  
+        {id: 5, name: 'Order', route: 'http://doordash.com/store/23u82328', target: '_blank'}
       ]
     }
   }
