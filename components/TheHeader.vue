@@ -27,7 +27,7 @@ export default {
         {name: 'About', route: '/about', target: '_self'},
         {name: 'Restaurants', route: '/restaurants', target: '_self'},
         {name: 'Offers', route: '/offers', target: '_self'},  
-        {name: 'Order', route: 'http://doordash.com/store/23u82328', target: '_blank'}
+        {name: 'Order', route: 'http://doordash.com/store/23u82328', target: 'blank'}
       ]
     }
   }
